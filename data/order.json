@@ -1,0 +1,38 @@
+[
+    {
+        "order_id": "1001",
+        "customer": "Rahul",
+        "product": "Wireless Headphones",
+        "status": "Shipped",
+        "expected_delivery": "2026-09-02",
+        "amount": 2499,
+        "payment_status": "Paid"
+    },
+    {
+        "order_id": "1002",
+        "customer": "Aman",
+        "product": "Mechanical Keyboard",
+        "status": "Processing",
+        "expected_delivery": "2026-09-04",
+        "amount": 3999,
+        "payment_status": "Paid"
+    },
+    {
+        "order_id": "1003",
+        "customer": "Priya",
+        "product": "Smart Watch",
+        "status": "Delivered",
+        "expected_delivery": "2026-08-28",
+        "amount": 5999,
+        "payment_status": "Paid"
+    },
+    {
+        "order_id": "1004",
+        "customer": "Neha",
+        "product": "Laptop Stand",
+        "status": "Cancelled",
+        "expected_delivery": null,
+        "amount": 1499,
+        "payment_status": "Refunded"
+    }
+]

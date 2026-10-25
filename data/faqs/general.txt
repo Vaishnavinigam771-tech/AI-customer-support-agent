@@ -1,0 +1,9 @@
+SHOPEASE GENERAL SUPPORT
+
+Customers can contact support for issues related to orders, payments, refunds, cancellations, shipping, and account access.
+
+Customers should provide their order ID when asking about a specific order.
+
+Orders can only be modified before they are shipped.
+
+Customers should never share passwords, OTPs, or complete payment card numbers with customer support.
